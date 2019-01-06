@@ -12,7 +12,7 @@ so please find the questions below)
 # NLP :
 
 1. how was the open.io problem fixed in the english2hindi prediction example.
-2. what is a GRU and its role. Conduce its functions in bi-directional and multi-perspective lstms with a simple written example.
+2. what is a GRU and its role. Conduce its functions in bi-directional and multi-perspective lstms with a example.
 
 # IMAGE PROCESSING : (will be updated soon)
 
