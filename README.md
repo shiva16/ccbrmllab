@@ -16,8 +16,6 @@ so please find the questions below)
 
 # IMAGE PROCESSING : (will be updated soon)
 
-1.(will be updated soon)
-2.(will be updated soon)
 
 # Submission :
 
