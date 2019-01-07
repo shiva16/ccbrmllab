@@ -13,7 +13,7 @@ For the IITm students who took the CCBR ML LAB for # credits, the assignemnt que
 1. How was the open.io problem fixed in the english2hindi prediction example.
 2. What is a GRU and its role. Conduce its functions in bi-directional and multi-perspective lstms with an example.
 
-# IMAGE PROCESSING : (will be updated soon)
+# IMAGE PROCESSING :
 
 1. Find one or more measures of similarity between two grayscale  images. Use any library available to you.
 
