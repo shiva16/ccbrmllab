@@ -2,7 +2,7 @@
 
 # Assignemnt 
 
-For the IITm students who took the CCBR ML LAB for #credits, the assignemnt questions are below.
+For the IITm students who took the CCBR ML LAB for # credits, the assignemnt questions are below.
 
 ( sorry : we have not been able to list all your 120 email IDs as a few were unclear with different styles of writting, 
 so please find the questions below, we did not want to miss out any IITm Student )
