@@ -11,8 +11,9 @@ For the IITm students who took the CCBR ML LAB for # credits, the assignemnt que
 
 # NLP :
 
-1. How was the open.io problem fixed in the english2hindi prediction example.
-2. What is a GRU and its role. Conduce its functions in bi-directional and multi-perspective lstms with an example.
+1. What is the fundamental requirement to data classification ? Support your reason with an example.
+2. How was the open.io problem fixed in the english2hindi prediction example.
+3. What is a GRU and its role. Conduce its functions in bi-directional and multi-perspective lstms with an example.
 
 # IMAGE PROCESSING :
 
@@ -24,11 +25,12 @@ For the IITm students who took the CCBR ML LAB for # credits, the assignemnt que
 
 # Submission :
 
-The assignment must be zipped and submitted to the following email IDs on or before 31st of January 2019 for credits.
+The assignment must be zipped and submitted to the following email IDs on or before 31st of January 2020 for credits.
 
 1. jaikishan.jayakumar@gmail.com
 2. ssk.ram@gmail.com
 3. shiva.adam@gmail.com
 
-
 (all examples must be orginal)
+
+
