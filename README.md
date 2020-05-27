@@ -2,7 +2,7 @@
 
 # Assignemnt ID7123
 
-For the IITm students who took the CCBR ML LAB for # credits, the assignemnt questions are below.
+For the IITm students who took ID7123 - CCBR ML LAB for # credits, the assignemnt questions are below.
 
 
 # https://sites.google.com/HTIc.iitm.ac.in/mlpracticegroup/home
